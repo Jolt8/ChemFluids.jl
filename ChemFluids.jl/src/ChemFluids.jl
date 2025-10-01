@@ -1,4 +1,4 @@
-module Fluids
+module ChemFluids
 
 greet() = print("Hello World!")
 
